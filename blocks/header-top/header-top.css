@@ -1,0 +1,15 @@
+.header-top {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 12px 0 0;
+  background-color: white;
+}
+
+.header-top::after {
+  content: "";
+  display: block;
+  border: none;
+  margin-top: 12px;
+  background-color: #F5F5F5;
+  height: 1px;
+}

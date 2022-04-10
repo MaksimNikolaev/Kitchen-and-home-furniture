@@ -1,0 +1,12 @@
+.header-top__item {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  margin-right: 22px;
+}
+
+.header-top__item:last-child {
+  margin-right: 0;
+}
