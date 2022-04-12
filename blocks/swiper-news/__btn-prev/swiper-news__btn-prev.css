@@ -1,0 +1,7 @@
+.swiper-news__btn-prev {
+  position: absolute;
+  top: 55%;
+  left: 0;
+  z-index: 10;
+  cursor: pointer;
+}

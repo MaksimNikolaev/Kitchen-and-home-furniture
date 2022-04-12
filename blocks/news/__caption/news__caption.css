@@ -1,0 +1,10 @@
+.news__caption {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 140%;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #363636;
+  margin: 26px 16px 24px 20px;
+  max-height: 40px;
+}

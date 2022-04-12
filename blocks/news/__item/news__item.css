@@ -1,0 +1,6 @@
+.news__item {
+  min-height: 295px;
+  max-height: 295px;
+  background-color: #F5F5F5;
+  border-radius: 4px;
+}
