@@ -1,0 +1,10 @@
+.work-stage__caption {
+  margin: 25x 0 8px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #363636;
+}

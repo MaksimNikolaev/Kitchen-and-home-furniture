@@ -62,3 +62,12 @@
 @import url(../blocks/swiper-price/swiper-price.css);
 @import url(../blocks/swiper-price/__btn-prev/swiper-price__btn-prev.css);
 @import url(../blocks/swiper-price/__btn-next/swiper-price__btn-next.css);
+@import url(../blocks/work-stages/work-stages.css);
+@import url(../blocks/work-stages/__container/work-stages__container.css);
+@import url(../blocks/work-stages/__title/work-stages__title.css);
+@import url(../blocks/work-stages/__list/work-stage__list.css);
+@import url(../blocks/work-stages/__item/work-stage__item.css);
+@import url(../blocks/work-stages/__img/work-stage__img.css);
+@import url(../blocks/work-stages/__caption/work-stage__caption.css);
+@import url(../blocks/work-stages/__text/work-stage__text.css);
+@import url(../blocks/work-stages/__btn/work-stage__btn.css);
