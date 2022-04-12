@@ -1,0 +1,10 @@
+.promotion__card-title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #363636;
+  margin: 0;
+  margin-bottom: 10px;
+}

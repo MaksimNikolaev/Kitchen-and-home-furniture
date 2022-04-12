@@ -1,0 +1,8 @@
+.swiper-price__btn-next{
+  position: absolute;
+  top: 55%;
+  right: 0;
+  z-index: 10;
+  transform: rotate(180deg);
+  cursor: pointer;
+}

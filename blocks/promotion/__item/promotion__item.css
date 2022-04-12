@@ -1,0 +1,6 @@
+.promotion__item {
+  box-sizing: border-box;
+  border: 1px solid #929292;
+  position: relative;
+  padding: 28px 15px;
+}

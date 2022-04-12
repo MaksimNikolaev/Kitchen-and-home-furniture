@@ -1,0 +1,12 @@
+.promotion {
+  max-width: 1380px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.promotion__container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 152px 0 90px;
+  
+}

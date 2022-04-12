@@ -1,0 +1,16 @@
+.swiper-price__btn-prev {
+  position: absolute;
+  top: 55%;
+  left: 0;
+  z-index: 10;
+  cursor: pointer;
+}
+
+.btn {
+  width: 60px;
+  height: 60px;
+  background: #929292;
+  background-image: url("../../../images/icons/arrow.svg");
+  opacity: 0.5;
+  border-radius: 50%;
+}

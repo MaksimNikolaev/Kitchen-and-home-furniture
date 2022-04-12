@@ -16,6 +16,7 @@
 @import url(../blocks/location/__title/location__title.css);
 @import url(../blocks/location/__city/location__city.css);
 @import url(../blocks/button-orange/button-orange.css);
+@import url(../blocks/button-white/button-white.css);
 @import url(../blocks/header-body/__comrassion/header-body__comrassion.css);
 @import url(../blocks/header-body/__cart/header-body__cart.css);
 @import url(../blocks/header-bottom/header-bottom.css);
@@ -46,3 +47,18 @@
 @import url(../blocks/company/__group-reviews/company__group-reviews.css);
 @import url(../blocks/company/__title/company__title.css);
 @import url(../blocks/company/__text/company__text.css);
+@import url(../blocks/promotion/promotion.css);
+@import url(../blocks/promotion/__group/promotion__group.css);
+@import url(../blocks/promotion/__title/promotion__title.css);
+@import url(../blocks/promotion/__items/promotion__items.css);
+@import url(../blocks/promotion/__item/promotion__item.css);
+@import url(../blocks/promotion/__sale/promotion__sale.css);
+@import url(../blocks/promotion/__img/promotion__img.css);
+@import url(../blocks/promotion/__card-title/promotion__card-title.css);
+@import url(../blocks/promotion/__caption/promotion__caption.css);
+@import url(../blocks/promotion/__price/promotion__price.css);
+@import url(../blocks/promotion/__old-price/promotion__old-price.css);
+@import url(../blocks/promotion/__link/promotion__link.css);
+@import url(../blocks/swiper-price/swiper-price.css);
+@import url(../blocks/swiper-price/__btn-prev/swiper-price__btn-prev.css);
+@import url(../blocks/swiper-price/__btn-next/swiper-price__btn-next.css);

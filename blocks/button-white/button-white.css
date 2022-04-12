@@ -1,0 +1,15 @@
+.button-white {
+  width: 244px;
+  height: 53px;
+  background: #fff;
+  border: 1px solid #F46E0B;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #F46E0B;
+  cursor: pointer;
+}

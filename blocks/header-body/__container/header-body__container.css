@@ -4,6 +4,7 @@
   padding-top: 7.69px;
   padding-bottom: 44.29px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
 }
