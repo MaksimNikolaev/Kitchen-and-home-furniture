@@ -1,0 +1,15 @@
+.menu-list__search {
+  background-image: url(../../../images/icons/search.svg);
+  background-color: transparent;
+  background-repeat: no-repeat;
+  width: 30px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+}
+
+.menu-list__search {
+  position: absolute;
+  right: 0;
+  bottom: 15px;
+}

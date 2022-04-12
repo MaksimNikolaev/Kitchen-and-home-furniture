@@ -1,0 +1,19 @@
+.menu-list__item {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  width: 250px;
+  height: 60px;
+  border-right: 1px solid #6C0BF4;
+  cursor: pointer;
+}
+
+.menu-list__item:last-child {
+  border-right: none;
+  cursor: none;
+}
+
+

@@ -1,0 +1,11 @@
+.location__city {
+  margin: 0;
+  font-size: 14px;
+  line-height: 16px;
+  color: #F46E0B;
+  margin-top: 4px;
+  border: none;
+  appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+}

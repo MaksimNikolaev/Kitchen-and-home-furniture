@@ -1,0 +1,14 @@
+.button-orange {
+  width: 244px;
+  height: 53px;
+  background: #F46E0B;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  border: none;
+  cursor: pointer;
+}

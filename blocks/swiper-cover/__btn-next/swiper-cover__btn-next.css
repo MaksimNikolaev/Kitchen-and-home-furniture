@@ -1,0 +1,11 @@
+.swiper-cover__btn-next {
+  position: absolute;
+  top: 50%;
+  right: 12%;
+  z-index: 10;
+  background-image: url("../../../images/icons/arrow-right-circle.png");
+  background-repeat: no-repeat;
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+}
