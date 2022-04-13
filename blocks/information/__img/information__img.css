@@ -7,12 +7,3 @@
   border-radius: 50%;
   background-color: #F46E0B;
 }
-
-.information__block {
-  min-height: 370px;
-  display: none;
-}
-
-.information__block_active {
-  display: block;
-}

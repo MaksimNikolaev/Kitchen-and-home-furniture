@@ -92,3 +92,5 @@
 @import url(../blocks/information/__item-group/information__item-group.css);
 @import url(../blocks/information/__caption/information__caption.css);
 @import url(../blocks/information/__img/information__img.css);
+@import url(../blocks/information/__block/information__block.css);
+@import url(../blocks/information/__block/_active/information__block_active.css);
