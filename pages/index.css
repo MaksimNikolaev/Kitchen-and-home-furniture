@@ -94,3 +94,13 @@
 @import url(../blocks/information/__img/information__img.css);
 @import url(../blocks/information/__block/information__block.css);
 @import url(../blocks/information/__block/_active/information__block_active.css);
+@import url(../blocks/question/question.css);
+@import url(../blocks/question/__container/question__container.css);
+@import url(../blocks/question/__group/question__group.css);
+@import url(../blocks/question/__info/question__info.css);
+@import url(../blocks/question/__title/question__title.css);
+@import url(../blocks/question/__caption/question__caption.css);
+@import url(../blocks/question/__group-info/question__group-info.css);
+@import url(../blocks/question/__phone/question__phone.css);
+@import url(../blocks/question/__shedule/question__shedule.css);
+@import url(../blocks/question/__form/question__form.css);

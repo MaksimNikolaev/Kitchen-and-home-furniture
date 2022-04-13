@@ -1,0 +1,13 @@
+.question__container {
+  max-width: 1200px;
+  margin: 0 auto;
+  background: rgba(54, 54, 54, 0.3);
+  border: 1px solid #363636;
+  box-sizing: border-box;
+  backdrop-filter: blur(4px);
+  border-radius: 4px;
+  position: absolute;
+  top: 10%;
+  left: 15%;
+  margin-right: 20px;
+}

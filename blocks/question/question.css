@@ -1,0 +1,7 @@
+.question {
+  background: url('../../images/cover/cover-21.jpg') no-repeat center;
+  background-size: contain;
+  background-size: auto auto;
+  height: 636px;
+  position: relative;
+}
