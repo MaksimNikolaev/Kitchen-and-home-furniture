@@ -1,0 +1,18 @@
+.information__img {
+  width: 50px;
+  height: 50px;
+  background-image: url("../../../images/icons/corner.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 50%;
+  background-color: #F46E0B;
+}
+
+.information__block {
+  min-height: 370px;
+  display: none;
+}
+
+.information__block_active {
+  display: block;
+}

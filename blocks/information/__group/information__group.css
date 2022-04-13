@@ -1,0 +1,6 @@
+.information__group {
+  display: flex;
+  justify-content: space-between;
+  gap: 66px;
+  margin-bottom: 40px;
+}

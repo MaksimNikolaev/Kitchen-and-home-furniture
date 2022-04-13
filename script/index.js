@@ -1,3 +1,14 @@
+const listItems = document.querySelectorAll('.information__item');
+const blockInformations = document.querySelectorAll('.information__block');
+
+listItems.forEach((element,index) => element.addEventListener('click', e => toggleBlock(e, index)));
+
+function toggleBlock(e,index) {
+  e.preventDefault();
+  blockInformations[index].classList.toggle('information__block_active');
+  //blockInformations.forEach(element => element.classList.toggle('information__block_active'));
+}
+
 const swiper = new Swiper('.swiper-cover', {
   // If we need pagination
   pagination: {
