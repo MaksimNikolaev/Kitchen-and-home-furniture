@@ -1,7 +1,6 @@
 .question__group {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  gap: 200px;
-  padding: 60px 170px 30px 90px;
+  display: grid;
+  grid-template-columns: minmax(100px, 400px) minmax(100px, 600px);
+  grid-column-gap: 18%;
+  padding: 60px 170px 60px 90px;
 }

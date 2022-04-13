@@ -104,3 +104,9 @@
 @import url(../blocks/question/__phone/question__phone.css);
 @import url(../blocks/question/__shedule/question__shedule.css);
 @import url(../blocks/question/__form/question__form.css);
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/__item/form__item.css);
+@import url(../blocks/form/__question/form__question.css);
+@import url(../blocks/form/__bot-checkbox/form__bot-checkbox.css);
+@import url(../blocks/form/__label/form__label.css);
+@import url(../blocks/form/__btn/form__btn.css);
