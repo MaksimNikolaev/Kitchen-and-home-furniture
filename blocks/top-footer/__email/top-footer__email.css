@@ -1,13 +1,15 @@
-.info {
-  display: flex;
-  flex-direction: column;
+.top-footer__email {
+  font-size: 16px;
+  line-height: 19px;
+  color: #363636;
+  text-decoration: none;
   position: relative;
 }
 
-.info::before {
+.top-footer__email::before {
   content: "";
   position: absolute;
-  background-image: url('../../images/icons/phone.svg');
+  background-image: url('../../../images/icons/mail.svg');
   background-position: center;
   background-repeat: no-repeat;
   width: 30px;
@@ -15,5 +17,4 @@
   top: 0;
   bottom: 0;
   margin: auto -42px;
-  opacity: 0.3;
 }

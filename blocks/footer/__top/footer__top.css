@@ -1,0 +1,9 @@
+.footer__top {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  align-items: flex-start;
+  justify-items: start;
+  grid-template-columns: 1fr 1fr 1fr 2fr;
+  padding: 70px 0 70px;
+}
